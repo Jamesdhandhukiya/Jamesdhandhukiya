@@ -1,6 +1,6 @@
 <img align="center" src="/Assets/banner.webp" width="100%"/>
 
-<h1 align="center">Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) I'm James Dhandhukiya</h1>
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) I'm James Dhandhukiya.
 <h3 align="center">Data Science and Machine Learning Enthusiast</h3>
 
 ---
