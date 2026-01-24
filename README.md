@@ -1,6 +1,11 @@
-# Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is James Dhandhukiya
+<img align="center" src="/Assets/banner.webp" width="100%"/>
 
-Data Science and Machine Learning Enthusiast
+<h1 align="center">Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) I'm James Dhandhukiya</h1>
+<h3 align="center">Data Science and Machine Learning Enthusiast</h3>
+
+---
+
+
 --------------------------------------------
 # 💫 About Me:
 🔭 I’m currently working on<br>6th semester CSE student at CHARUSAT University (DEPSTAR) with a CGPA of 8.85. I work as a Full-Stack Python Developer building applications using Django, REST APIs, and modern web technologies, along with Machine Learning–based features.<br><br>👯 I’m looking to collaborate on<br>Full-stack Python projects (Django + REST APIs), ML-driven applications, and AI-powered web platforms.<br><br>🌱 I’m currently learning<br>Deep Learning, and planning to explore LLMs and NLP next.<br><br>💬 Ask me about<br>Python, Django, REST APIs, full-stack development, and Machine Learning basics.<br><br>⚡ Fun fact<br>I love turning ideas into scalable, intelligent applications 🚀
