@@ -14,5 +14,4 @@
 ![](https://github-readme-stats.vercel.app/api?username=Jamesdhandhukiya&show_icons=true&theme=radical)
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Jamesdhandhukiya&theme=radical)
-![](https://nirzak-streak-stats.vercel.app/?user=Jamesdhandhukiya&theme=radical&hide_border=false)<br/>
 
