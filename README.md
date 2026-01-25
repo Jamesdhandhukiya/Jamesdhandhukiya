@@ -1,6 +1,6 @@
 
 # Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) I'm James Dhandhukiya.
-# Data Science and Machine Learning Enthusiast
+# Data Science Enthusiast and Full Stack Developer
 # 💫 About Me:
 🔭 I'm currently working on<br>Strengthening my data science foundation through hands-on projects in machine learning and deep learning.<br><br>🌱 I'm currently learning<br>Machine Learning, Deep Learning, Generative AI, Prompt Engineering, NLP, Large Language Models, Quantum AI, Azure Cloud, Power BI, and CI/CD practices.<br><br>👯 I'm looking to collaborate on<br>Data science, machine learning, and AI-driven projects, including open-source and research-focused work.<br><br>🤝 I'm looking for help with<br>Advanced ML concepts, building LLM-based applications, and designing scalable AI systems.<br><br>💬 Ask me about<br>Data science fundamentals, machine learning basics, deep learning concepts, and AI project workflows
 
